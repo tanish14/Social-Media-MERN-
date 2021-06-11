@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
     res.send('This is chase-social API')
 });
 
-const CONNECTION_URL = 'mongodb+srv://new_tan:blessmegod@cluster0.lkhof.mongodb.net/myFirstDatabase?';
+const CONNECTION_URL = 'mongodb+srv://db:pass@cluster0.lkhof.mongodb.net/myFirstDatabase?';
 const PORT = process.env.PORT || 5000;
 
 mongoose.connect(CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
