@@ -37,7 +37,7 @@ React one page Social media application using `MERN` `react hooks`, `mongoose`,`
 
 * Ensure you have [NPM](https://github.com/npm/npm) installed.
 
-* Download or Clone Repository from [here](#quick-start)
+* Download or Clone Repository
 
 * Go into Server folder
 
@@ -84,38 +84,3 @@ npm start
 ## Browser Support
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="35" height="35"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="35" height="35"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="35" height="35"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="35" height="35"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="35" height="35">
-
-## Authors
-**Sagar Saini** - *Initial work* - [ChaseSagar](http://chasesagar.me/me)
-See also the list of contributors who participated in this project.
-
-## Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://chasesagar.me/me)
-
-<p>&nbsp;</p>
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sagar__saini)
-
-<p>&nbsp;</p>
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/chasesagar/)
-
-<p>&nbsp;</p>
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sagar__saini)
-
-<p>&nbsp;</p>
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Chasesagar)
-
-<br />
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/MERN-Social-Media/blob/master/LICENSE) file for details
-
-## Acknowledgements
-
-* **JavaScript Mastery Youtube**
